@@ -1,6 +1,6 @@
 ## ESD CAN Library
 
-Although ESD PCIe CAN is supported out of the box, however, you MUST obtain ESD's CAN library software from ESD Electronics to compile and use it in Titan Loop software stack.
+Although ESD PCIe CAN is supported out of the box, however, you MUST obtain ESD's CAN library software from ESD Electronics to compile and use it in Loop software stack.
 
 1. After/when you purchase CAN card from ESD Electronics, please contact support@esd.eu to obtain the supporting software package for Linux.
   The CAN card to use with the IPC is ESD CAN-PCIe/402. For more information about the CAN-PCIe/402, see the [ESD CAN-PCIe/402 Product Page](https://esd.eu/en/products/can-pcie402)

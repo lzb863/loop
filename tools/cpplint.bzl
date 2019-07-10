@@ -5,7 +5,7 @@
 # Copyright (c) 2019 - Present Aaron Ma http://www.aaronhma.com/,
 # Copyright (c) 2017 - 2019 Firebolt, Inc. http://www.firebolt.ai/,
 # Copyright (c) 2017 - 2019 Firebolt Space Agency,
-# Copyright (c) 2019 Project Titan Loop https://github.com/titan-loop/loop/.
+# Copyright (c) 2019 Project Loop https://github.com/titan-loop/loop/.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
